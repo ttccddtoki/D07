@@ -1,0 +1,27 @@
+// Place all the styles related to the tweets controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.wrapper {
+  margin: 0px auto;
+  padding: 20px 20px 20px 35px;
+  .row {
+background: #ffffff;
+width: 300px;
+padding: 10px;
+text-align: center;
+border: 1px solid #cccccc;
+margin: 30px auto;
+  }
+   .タイトル {
+text-align: center;
+  }
+}
+input[type="submit"].btn-block{
+  margin: 15px 0;color: #00aced;
+}
+
+
+body {
+background: #c0deed;
+font-family: Meiryo;
+}
